@@ -7,13 +7,13 @@ nav_order: 1
 
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
 
+
 <!--
-<img src="assets/img/dmds-tableau.png" alt="Workshop Title Slide" width="720">
 
-# Welcome to Data Visualization with Tableau. 
+# Introduction to GIS
 
-You might not think of numbers and locations as Humanities data, but it all depends on how you use them! Working with numeric and spatial data, you will learn how to create visualizations in [Tableau](https://www.tableau.com/).
+This beginner workshop introduces the core concepts of Geographic Information Systems (GIS) and geospatial data. Through the use of the GIS software program, [QGIS](https://qgis.org/en/site/), hands-on exercises will incorporate these concepts in the creation of a map. 
 
-Proceed to the [Preparation](preparation) page to get started.
+For the required software and data downloads, go to the [Preparation](https://scds.github.io/intro-gis/preparation.html) page.
+
 -->
-
