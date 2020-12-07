@@ -8,10 +8,12 @@ nav_order: 4
 
 <!--
 
-## More info and other tools
+## QGIS Tutorials and Resources
 
-- Tableau [free training videos](https://www.tableau.com/learn/training/20201)
-- LinkedIn Learning [Tableau training page](https://www.linkedin.com/learning/topics/tableau)
-- Data visualization design considerations for beginners: [Berkeley Library](https://guides.lib.berkeley.edu/data-visualization/design) | [University of Guelph Library](https://guides.lib.uoguelph.ca/c.php?g=700755&p=4976239)
+- [QGIS Documentation](https://qgis.org/en/docs/index.html)
+  - User guide and training manual
+- [QGIS Tutorials and Tips](http://www.qgistutorials.com/en/)
+  - Step-by-step tutorials addressing basic, intermediate, and advanced operations, in addition to Python scripting (PyQGIS) and web mapping.
+- QGIS [video tutorials](https://www.youtube.com/channel/UCxs7cfMwzgGZhtUuwhny4-Q) with Klas Karlsson
 
 -->
