@@ -34,7 +34,7 @@ This exercise will be an introduction to the QGIS interface, in the replication 
 
 #### Part 1 - Create a basic map
 
-<iframe src="https://mcmasteru365-my.sharepoint.com/:w:/r/personal/homuthc_mcmaster_ca/Documents/Instruction%20and%20Outreach/Intro_to_GIS/Intro%20to%20GIS%20-%20Activity%20Part%201.docx?d=wc4ac6cc4a09b414399a7742a7529ae38&csf=1&web=1&e=X0qFOs" width="610px" height="367px" frameborder="0"></a></iframe>
+<iframe src="https://github.com/scds/intro-gis/blob/main/assets/docs/Intro%20to%20GIS%20-%20Activity%20Part%201.pdf" width="610px" height="367px" frameborder="0"></a></iframe>
 <br />
 [Download Part 1 as a PDF](https://github.com/scds/intro-gis/blob/main/assets/docs/Intro%20to%20GIS%20-%20Activity%20Part%201.pdf)
 
@@ -44,7 +44,7 @@ Using Snowâ€™s theory that the source is contaminated water from the pumps, weâ€
 
 Thiessen polygons are drawn in such a way that the boundaries represent the halfway point between neighbouring pumps. Therefore, any location within a polygon is closer to the pump within the same polygon, than any other pump. These polygons will be used to calculate the concentration of cases per pump. 
 
-<iframe src="https://mcmasteru365-my.sharepoint.com/:w:/r/personal/homuthc_mcmaster_ca/Documents/Instruction%20and%20Outreach/Intro_to_GIS/Intro%20to%20GIS%20-%20Activity%20Part%202.docx?d=wa7c183a21a4b475bbd2d6f3ccd15a945&csf=1&web=1&e=Wh8dQt" width="610px" height="367px" frameborder="0"></a></iframe>
+<iframe src="https://github.com/scds/intro-gis/blob/main/assets/docs/Intro%20to%20GIS%20-%20Activity%20Part%202.pdf" width="610px" height="367px" frameborder="0"></a></iframe>
 <br />
 [Download Part 2 as a PDF](https://github.com/scds/intro-gis/blob/main/assets/docs/Intro%20to%20GIS%20-%20Activity%20Part%202.pdf)
 
