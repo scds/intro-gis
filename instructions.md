@@ -33,7 +33,7 @@ This exercise will be an introduction to the QGIS interface, in the replication 
 - [OpenStreetMap](http://download.geofabrik.de/) data for the Greater London area (file size: ~77 MB) 
 
 #### Part 1 - Create a basic map
-<iframe src="https://mcmasteru365-my.sharepoint.com/personal/homuthc_mcmaster_ca/_layouts/15/Doc.aspx?sourcedoc={c4ac6cc4-a09b-4143-99a7-742a7529ae38}&amp;action=embedview&amp;wdPrint=0&amp;wdEmbedCode=0" width="476px" height="288px" frameborder="0"></iframe>
+<iframe src="https://mcmasteru365-my.sharepoint.com/personal/homuthc_mcmaster_ca/_layouts/15/Doc.aspx?sourcedoc={c4ac6cc4-a09b-4143-99a7-742a7529ae38}&amp;action=embedview&amp;wdPrint=0&amp;wdEmbedCode=0" width="610px" height="367px" frameborder="0"></iframe>
 <br />
 [Download Part 1 as a PDF](https://github.com/scds/intro-gis/blob/main/assets/docs/Intro%20to%20GIS%20-%20Activity%20Part%201.pdf)
 
@@ -43,7 +43,7 @@ Using Snowâ€™s theory that the source is contaminated water from the pumps, weâ€
 
 Thiessen polygons are drawn in such a way that the boundaries represent the halfway point between neighbouring pumps. Therefore, any location within a polygon is closer to the pump within the same polygon, than any other pump. These polygons will be used to calculate the concentration of cases per pump. 
 
-<iframe src="https://mcmasteru365-my.sharepoint.com/personal/homuthc_mcmaster_ca/_layouts/15/Doc.aspx?sourcedoc={a7c183a2-1a4b-475b-bd2d-6f3ccd15a945}&amp;action=embedview&amp;wdPrint=0&amp;wdEmbedCode=0" width="476px" height="288px" frameborder="0"></iframe>
+<iframe src="https://mcmasteru365-my.sharepoint.com/personal/homuthc_mcmaster_ca/_layouts/15/Doc.aspx?sourcedoc={a7c183a2-1a4b-475b-bd2d-6f3ccd15a945}&amp;action=embedview&amp;wdPrint=0&amp;wdEmbedCode=0" width="610px" height="367px" frameborder="0"></iframe>
 <br />
 [Download Part 2 as a PDF](https://github.com/scds/intro-gis/blob/main/assets/docs/Intro%20to%20GIS%20-%20Activity%20Part%202.pdf)
 
