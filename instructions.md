@@ -7,8 +7,6 @@ nav_order: 3
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
 
 
-<!--
-
 # Workshop Content
 
 ## Workshop slides
@@ -18,5 +16,3 @@ nav_order: 3
 <br />
 
 [Download the workshop slides as a PDF](https://github.com/scds/intro-gis/blob/main/assets/docs/Intro%20to%20GIS%20(QGIS)%20-%20Slides.pdf)
-
--->
