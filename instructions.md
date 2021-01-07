@@ -33,7 +33,7 @@ This exercise will be an introduction to the QGIS interface, in the replication 
 - [OpenStreetMap](http://download.geofabrik.de/) data for the Greater London area (file size: ~77 MB) 
 
 #### Part 1 - Create a basic map
-<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-gis/blob/main/assets/docs/Intro%20to%20GIS%20-%20Activity%20Part%201.pdf?dl=0&amp;hl=en_US&amp;embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
+<iframe src="https://mcmasteru365-my.sharepoint.com/personal/homuthc_mcmaster_ca/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhomuthc%5Fmcmaster%5Fca%2FDocuments%2FInstruction%20and%20Outreach%2FIntro%5Fto%5FGIS%2FIntro%20to%20GIS%20%2D%20Activity%20Part%201%2Epdf&parent=%2Fpersonal%2Fhomuthc%5Fmcmaster%5Fca%2FDocuments%2FInstruction%20and%20Outreach%2FIntro%5Fto%5FGIS" width="610px" height="367px" frameborder="0"></a></iframe>
 <br />
 [Download Part 1 as a PDF](https://github.com/scds/intro-gis/blob/main/assets/docs/Intro%20to%20GIS%20-%20Activity%20Part%201.pdf)
 
@@ -43,7 +43,7 @@ Using Snowâ€™s theory that the source is contaminated water from the pumps, weâ€
 
 Thiessen polygons are drawn in such a way that the boundaries represent the halfway point between neighbouring pumps. Therefore, any location within a polygon is closer to the pump within the same polygon, than any other pump. These polygons will be used to calculate the concentration of cases per pump. 
 
-<iframe src="https://github.com/scds/intro-gis/blob/main/assets/docs/Intro%20to%20GIS%20-%20Activity%20Part%202.pdf" width="610px" height="367px" frameborder="0"></a></iframe>
+<iframe src="https://mcmasteru365-my.sharepoint.com/personal/homuthc_mcmaster_ca/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhomuthc%5Fmcmaster%5Fca%2FDocuments%2FInstruction%20and%20Outreach%2FIntro%5Fto%5FGIS%2FIntro%20to%20GIS%20%2D%20Activity%20Part%202%2Epdf&parent=%2Fpersonal%2Fhomuthc%5Fmcmaster%5Fca%2FDocuments%2FInstruction%20and%20Outreach%2FIntro%5Fto%5FGIS" width="610px" height="367px" frameborder="0"></a></iframe>
 <br />
 [Download Part 2 as a PDF](https://github.com/scds/intro-gis/blob/main/assets/docs/Intro%20to%20GIS%20-%20Activity%20Part%202.pdf)
 
