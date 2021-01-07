@@ -33,8 +33,7 @@ This exercise will be an introduction to the QGIS interface, in the replication 
 - [OpenStreetMap](http://download.geofabrik.de/) data for the Greater London area (file size: ~77 MB) 
 
 #### Part 1 - Create a basic map
-
-<iframe src="https://github.com/scds/intro-gis/blob/main/assets/docs/Intro%20to%20GIS%20-%20Activity%20Part%201.pdf" width="610px" height="367px" frameborder="0"></a></iframe>
+<iframe src="https://mcmasteru365-my.sharepoint.com/:b:/g/personal/homuthc_mcmaster_ca/EXtXu2JSrLVNvBmY7H0ldBMBk3AKXvqgsBE5JijihM_jqg?e=eMaNwh" width="610px" height="367px" frameborder="0"></a></iframe>
 <br />
 [Download Part 1 as a PDF](https://github.com/scds/intro-gis/blob/main/assets/docs/Intro%20to%20GIS%20-%20Activity%20Part%201.pdf)
 
