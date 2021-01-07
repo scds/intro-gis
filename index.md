@@ -9,6 +9,6 @@ nav_order: 1
 
 # Introduction to GIS
 
-This beginner workshop introduces the core concepts of **Geographic Information Systems (GIS)** and geospatial data. Through the use of the GIS software program, **[QGIS]**(https://qgis.org/en/site/), hands-on exercises will incorporate these concepts in the creation of a map. 
+This beginner workshop introduces the core concepts of **Geographic Information Systems (GIS)** and geospatial data. Through the use of the GIS software program, **[QGIS](https://qgis.org/en/site/)**, hands-on exercises will incorporate these concepts in the creation of a map. 
 
-For the required software and data downloads, go to the **[Preparation]**(https://scds.github.io/intro-gis/preparation.html) page.
+For the required software and data downloads, go to the **[Preparation](https://scds.github.io/intro-gis/preparation.html)** page.
