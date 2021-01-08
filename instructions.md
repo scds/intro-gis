@@ -11,7 +11,7 @@ nav_order: 3
 
 ## Workshop slides
 <div style="position:relative;padding-top:56.25%;">
-<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-gis/raw/main/assets/docs/Intro%20to%20GIS%20(QGIS)%20-%20Slides.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:50%;height:50%;border:none;" scrolling="no"></iframe>
+<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-gis/raw/main/assets/docs/Intro%20to%20GIS%20(QGIS)%20-%20Slides.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
 </div>
 <br />
 [Download the workshop slides as a PDF](https://github.com/scds/intro-gis/blob/main/assets/docs/Intro%20to%20GIS%20(QGIS)%20-%20Slides.pdf?dl=1)
@@ -43,7 +43,7 @@ This exercise will be an introduction to the QGIS interface, in the replication 
 -->
 
 <div style="position:relative;padding-top:56.25%;">
-<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-gis/raw/main/assets/docs/Intro%20to%20GIS%20-%20Activity%20Part%201.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:50%;height:50%;border:none;" scrolling="no"></iframe>
+<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-gis/raw/main/assets/docs/Intro%20to%20GIS%20-%20Activity%20Part%201.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
 </div>
 <br />
 [Download Part 1 as a PDF](https://github.com/scds/intro-gis/blob/main/assets/docs/Intro%20to%20GIS%20-%20Activity%20Part%201.pdf?dl=1)
@@ -59,7 +59,7 @@ Thiessen polygons are drawn in such a way that the boundaries represent the half
 -->
 
 <div style="position:relative;padding-top:56.25%;">
-<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-gis/raw/main/assets/docs/Intro%20to%20GIS%20-%20Activity%20Part%202.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:50%;height:50%;border:none;" scrolling="no"></iframe>
+<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-gis/raw/main/assets/docs/Intro%20to%20GIS%20-%20Activity%20Part%202.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
 </div>
 <br />
 [Download Part 2 as a PDF](https://github.com/scds/intro-gis/blob/main/assets/docs/Intro%20to%20GIS%20-%20Activity%20Part%202.pdf?dl=1)
