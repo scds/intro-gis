@@ -19,7 +19,8 @@ nav_order: 3
 
 <br />
 
-[Download the workshop slides as a PDF](https://github.com/scds/intro-gis/blob/main/assets/docs/Intro%20to%20GIS%20(QGIS)%20-%20Slides.pdf)
+[Download the workshop slides as a PDF](https://github.com/scds/intro-gis/blob/main/assets/docs/Intro%20to%20GIS%20(QGIS)%20-%20Slides.pdf?dl=1)
+
 
 ## Workshop activity
 
@@ -41,7 +42,7 @@ This exercise will be an introduction to the QGIS interface, in the replication 
 -->
 
 <br />
-[Download Part 1 as a PDF](https://github.com/scds/intro-gis/blob/main/assets/docs/Intro%20to%20GIS%20-%20Activity%20Part%201.pdf)
+[Download Part 1 as a PDF](https://github.com/scds/intro-gis/blob/main/assets/docs/Intro%20to%20GIS%20-%20Activity%20Part%201.pdf?dl=1)
 
 #### Part 2 - Basic spatial analysis
 
@@ -55,7 +56,7 @@ Thiessen polygons are drawn in such a way that the boundaries represent the half
 <iframe src="https://mcmasteru365-my.sharepoint.com/personal/homuthc_mcmaster_ca/_layouts/15/Doc.aspx?sourcedoc={a7c183a2-1a4b-475b-bd2d-6f3ccd15a945}&amp;action=embedview&amp;wdPrint=0&amp;wdEmbedCode=0" width="610px" height="367px" frameborder="0"></iframe>
 -->
 <br />
-[Download Part 2 as a PDF](https://github.com/scds/intro-gis/blob/main/assets/docs/Intro%20to%20GIS%20-%20Activity%20Part%202.pdf)
+[Download Part 2 as a PDF](https://github.com/scds/intro-gis/blob/main/assets/docs/Intro%20to%20GIS%20-%20Activity%20Part%202.pdf?dl=1)
 
 #### Reference material
 
