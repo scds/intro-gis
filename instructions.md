@@ -14,8 +14,7 @@ nav_order: 3
 <iframe src="https://mcmasteru365-my.sharepoint.com/personal/homuthc_mcmaster_ca/_layouts/15/Doc.aspx?sourcedoc={cc63983e-20b4-476d-bf2b-e750ced2dc08}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="610px" height="367px" frameborder="0"></a></iframe>
 -->
 
-<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-gis/raw/main/assets/docs/Intro%20to%20GIS%20(QGIS)%20-%20Slides.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
-
+<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-gis/raw/main/assets/docs/Intro%20to%20GIS%20(QGIS)%20-%20Slides.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:50%;height:50%;border:none;" scrolling="no"></iframe>
 <br />
 
 [Download the workshop slides as a PDF](https://github.com/scds/intro-gis/blob/main/assets/docs/Intro%20to%20GIS%20(QGIS)%20-%20Slides.pdf)
