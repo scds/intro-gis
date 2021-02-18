@@ -15,7 +15,7 @@ nav_order: 4
 <iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-gis/blob/main/assets/docs/Intro%20to%20GIS%20-%20Mapping%20COVID-19%20in%20Hamilton.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
 </div>
 <br />
-[Download Part 1 as a PDF]([Download Part 1 as a PDF](https://github.com/scds/intro-gis/blob/main/assets/docs/Intro%20to%20GIS%20-%20Mapping%20COVID-19%20in%20Hamilton.pdf))
+[Download Part 1 as a PDF](https://github.com/scds/intro-gis/blob/main/assets/docs/Intro%20to%20GIS%20-%20Mapping%20COVID-19%20in%20Hamilton.pdf?dl=1)
 
 ## QGIS Tutorials and Documentation
 
