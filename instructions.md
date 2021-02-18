@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Getting Started
+title: Workshop Content
 nav_order: 3
 ---
 
