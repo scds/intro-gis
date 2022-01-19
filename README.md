@@ -1,7 +1,7 @@
 # INTRODUCTION TO GIS
 Materials DASH tutorial: **Introduction to GIS**  
 
-This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/intro-gis/) with GitHub Pages   
+This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/intro-gis/) with GitHub Pages.   
 
 
 Contributions by the following individuals: 
